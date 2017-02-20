@@ -7,9 +7,16 @@
     border: 1px solid black;
 }
 
-.fourth {
-    width: 50%;
-    height: 50%;
+.fourth-1 {
+    position: relative;
+    width: 30%;
     background: blue;
     border-radius: 100% 0 0 0;
+}
+
+.fourth-2 {
+    position: relative;
+    width: 30%;
+    background: green;
+    border-radius: 0 0 0 100%;
 }
